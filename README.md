@@ -1,8 +1,4 @@
-# React + Vite
+Strangers-Things Netlify Link 
+https://6511f9b4b10a2b1653fe3f59--dazzling-bombolone-92cb90.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This app allows users to post content into a social platform known as Strangers's-Things and lets consumers communicate between each other to obtain new items from strangers. 
