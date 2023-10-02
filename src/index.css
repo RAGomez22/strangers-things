@@ -1,0 +1,73 @@
+fieldset,h1{
+    text-align: center;
+}
+nav ul li{
+    align-items: center;
+    float: right;
+}
+h2{
+    background-color: #B4BAD4;
+    text-align: center;
+    padding: 10px;
+}
+input{
+    margin: 10px 0 0 0;
+    width:50%;
+}
+
+button{
+    margin: 10px 0 0 0;
+    width:50%;
+}
+body{
+    background-color: #ffffff;
+}
+form{
+    background-color: #B4BAD4;
+}
+fieldset{
+    border-style: none;
+    padding-top: 10px;
+}
+button.DetailsButton{
+    background-color: #B4BAD4;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+ul.Nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+    overflow: hidden;
+    background-color: #B4BAD4;
+}
+li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #5c84e9;
+
+}
+label{
+    display: flex;
+    justify-content: center;
+    padding-top: .25rem;
+}
+.Cposts{
+    text-align: center;
+}
+a:link {
+    color: Black;
+    text-decoration: none;
+  }
+a:visited {
+    color: Black;
+    text-decoration: none;
+  }
+  a:hover {
+    color: blue;
+  }
